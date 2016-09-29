@@ -1,0 +1,43 @@
+[{
+    "type": "ABCD",
+    "choices": [{
+        "letter": "A",
+        "oprItems": [{
+            "title": "阿巴洲",
+            "value": 1
+        }, {
+            "title": "北京",
+            "value": 2
+        }]
+    }, {
+        "letter": "B",
+        "oprItems": [{
+            "title": "阿巴洲",
+            "value": 1
+        }, {
+            "title": "北京",
+            "value": 2
+        }]
+    }]
+}, {
+    "type": "EFGH",
+    "choices": [{
+        "letter": "E",
+        "oprItems": [{
+            "title": "阿巴洲",
+            "value": 1
+        }, {
+            "title": "北京",
+            "value": 2
+        }]
+    }, {
+        "letter": "F",
+        "oprItems": [{
+            "title": "阿巴洲",
+            "value": 1
+        }, {
+            "title": "北京",
+            "value": 2
+        }]
+    }]
+}]
