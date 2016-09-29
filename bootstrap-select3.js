@@ -1,6 +1,7 @@
  /* ========================================================================
   * Select3:
   * 基于bootstrap的dropdown效果的多选插件，带字母分类 *
+  * https://github.com/soonyh/bootstrap-select3/
   * ========================================================================
   * 调用方法：
   * <input type="text" class="select3" data-url="xxx"/>
