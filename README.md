@@ -6,13 +6,13 @@
 ![overview](http://oaaq2vqkp.bkt.clouddn.com/bootstrap-select3.jpg)
 
 ## 调用方法：
-```
+```js
 <input type="text" class="select3" data-url="xxx"/>
 $('.select3').select3()
 ```  
 
 或者  
-```
+```js
 <input type="text" class="select3"/>
 $('.select3').select3({url:'xxx'})
 ```
